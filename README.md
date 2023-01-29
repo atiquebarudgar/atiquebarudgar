@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Mohd Atique Barudgar
 - 👀 I’m interested in Data Analysis and Machine Learning .
-- 🌱 I’m currently working at Indian Institute of Technology Bombay, India as a researcher on air quality data analyst, air exposure assessment, and aerosol studies.
-- 💞️ I’m looking for positions of Data scientist, or Research positions/PhD related to air quality, aerosols and climate study and data analysis.
-- ✨ My educational qualification is Master of Technology (M.Tech) in Atmosphere and Ocean Science from National Institute of Technology Rourkela.
+- 🌱 I’m currently working at Indian Institute of Technology Bombay, India as a researcher on air quality data, air exposure assessment, and aerosol studies.
+- 💞️ I’m looking for positions of Data scientist, or Research positions related to air and climate data analysis; air exposure; and aerosol and climate studies.
+- ✨ My educational qualification is Master of Technology (M.Tech) in Atmosphere and Ocean Science from National Institute of Technology Rourkela, India.
 - 📫 How to reach me - atiquebarudgar@gmail.com.
 
 - 
